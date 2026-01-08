@@ -7,10 +7,10 @@ export default function Page() {
       <div className="xl:min-w-1/2 flex flex-col items-center xl:items-start xl:pl-6 md:mt-[10rem] xl:mt-0 text-center xl:text-left">
         <p className="text-sm md:text-xl lg:text-3xl xl:text-xl mb-5 opacity-70 ">Begin your journey Towards Making People Healthy</p>
         <div className="flex justify-between items-center gap-5 mb-5">
-          <Link href="https://play.google.com/store/apps/details?id=com.wellnessz.aaharsutra" target="_blank">
+          <Link href="https://play.google.com/store/apps/details?id=com.wellnessz.nutryst" target="_blank">
             <Image src="/playstore.png" alt="Google Store" width={150} height={40} className="cursor-pointer w-2xs" />
           </Link>
-          <Link href="https://apps.apple.com/in/app/healthsang/id6754602127" target="_blank">
+          <Link href="https://apps.apple.com/us/app/nutryst/id6756064626" target="_blank">
             <Image src="/appStore.png" alt="App Store" width={150} height={60} className="cursor-pointer w-2xs" />
           </Link>
         </div>
